@@ -1,0 +1,5 @@
+23 est un nombre premier car il est divisible par 1 et que par lui même.
+
+Car le reste de la division de ces deux noombre part 88 est égale à 1
+
+Le numero de la securité social est composé de 13 + 2 chiffre au total 15 chiffre sachant que les deux dernier chiffre son la difference entre le reste de la division euclidienne par 97 
